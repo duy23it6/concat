@@ -1,0 +1,85 @@
+/* body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+} */
+
+
+/* .card {
+    border: 1px solid #ccc;
+    text-align: center;
+    padding: 20px;
+}
+
+.card img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    opacity: 0.2;
+}
+
+.card p {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    opacity: 0.5;
+}
+
+.card ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.card button {
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+    opacity: 0.4;
+}
+
+#hop {
+    border: 2px solid #555;
+    position: absolute;
+    width: 100%
+} */
+
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: hotpink;
+    position: relative;
+}
+
+.box2 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(105, 145, 255);
+    position: absolute;
+    top: 50px;
+}
+
+.box3 {
+    width: 200px;
+    height: 200px;
+    background-color: rgb(105, 255, 165);
+}
+
+.menu {
+    text-align: center;
+    background: #007bff;
+    padding: 10px;
+    position: sticky;
+    top: 0;
+}
+
+.menu a {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.menu a:hover {
+    text-decoration: underline;
+}
+
